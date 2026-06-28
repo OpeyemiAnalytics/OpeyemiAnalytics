@@ -69,13 +69,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 ## 💜 GitHub Journey
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpeyemiAnalytics&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpeyemiAnalytics&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=OpeyemiAnalytics&theme=radical&hide_border=true&ring=C4A8E8&fire=C4A8E8&currStreakLabel=C4A8E8&background=2D0A5A)](https://github.com/OpeyemiAnalytics)
 
 ---
 
