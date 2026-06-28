@@ -17,8 +17,8 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 - 🏦 Currently: **Access Control & Security Officer** at a leading Nigerian bank
 - 📊 Upskilling: **Bootcamp** at DigitaleyDrive (Power BI · SQL · Excel · DAX · Tableau)
 - 🎯 Target: **BI Analyst / Financial Analyst roles** in Banking and Fintech
-- 🤖 AI-assisted analyst — I use **Claude, ChatGPT, Copilot or Gemini** to work smarter
-- 👗 Side hustle: Founder of **Dooocetaa's Haven** — *Celebrating Every Woman, Every Shape, Every Shade*
+- 🤖 AI-assisted analyst - I use **Claude, ChatGPT, Copilot or Gemini** to work smarter
+- 👗 Side hustle: Founder of **Dooocetaa's Haven** - *Celebrating Every Woman, Every Shape, Every Shade*
 - 📍 Based in **Lagos, Nigeria**
 - 📬 Reach me: **dooocetaa17@gmail.com**
 
@@ -55,7 +55,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 | Project | Tools | Description |
 |---------|-------|-------------|
 | 🛫 **Flight Risk** | Power BI · DAX · Power Query | Dano Airlines passenger experience & delay analysis dashboard |
-| 🚗 **Impact Zone** | Power BI · DAX · Data Cleaning | NYC Motor Vehicle Collisions — 1M+ records, high-risk zone mapping |
+| 🚗 **Impact Zone** | Power BI · DAX · Data Cleaning | NYC Motor Vehicle Collisions - 1M+ records, high-risk zone mapping |
 | 🏦 **Bank Churn Analysis** | PostgreSQL · Excel · Power BI | End-to-end customer churn pipeline with interactive dashboard |
 | 📈 **Maven Marketing Dashboard** | Power BI · DAX | "Midnight Teal" 3-page marketing dashboard + 10-page report |
 | 🏥 **Health App Churn Analysis** | Excel · Power BI | 240K+ row health app user churn analysis & insights |
@@ -91,6 +91,6 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=5B2D8E&height=100&section=footer)
 
-*Open to BI Analyst and Financial Analyst roles in Fintech · Lagos, Nigeria 🇳🇬*
+*Open to BI Analyst and Financial Analyst roles in Banking and Fintech · Lagos, Nigeria 🇳🇬*
 
 </div>
