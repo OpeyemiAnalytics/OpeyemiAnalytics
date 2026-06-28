@@ -1,14 +1,18 @@
-# Hi there 👋🏾, I'm Opeyemi Taiwo
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=58D2EB&amp;height=250&amp;section=header&amp;text=Welcome" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:9B5DE5,100:C77DFF&height=280&section=header&text=Welcome%20to%20My%20Space&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data-driven%20insights.%20Smarter%20decisions.%20Real%20impact.&descAlignY=58&descSize=20" width="100%" />
+
+# 👋 Hi there, I'm *Opeyemi Taiwo*
+
+### *Business Intelligence • Financial Analytics • Data Storytelling*
+
+Turning raw data into clear, actionable insights that drive business decisions.
 
 </div>
 
 ---
 
-## 🙋🏾‍♀️ About Me
+## 💜 About Me
 
 > *"I turn raw data into clear, actionable insights that drive real business decisions."*
 
@@ -24,7 +28,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
 ### Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -36,7 +40,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI Tools I Use Daily
+### 🤖 AI Toolkit
 ![Claude](https://img.shields.io/badge/Claude-D4A843?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -50,7 +54,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 ---
 
-## 📂 Featured Projects
+## 📊 Featured Analytics Projects
 
 | Project | Tools | Description |
 |---------|-------|-------------|
@@ -63,7 +67,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
