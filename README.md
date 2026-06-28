@@ -97,6 +97,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5B2D8E&amp;height=100&amp;section=footer" width="100%"/>
 
 *Thanks for stopping by! Let's build something meaningful with data💜*
+
 *Open to BI Analyst and Financial Analyst roles in Banking and Fintech · Lagos, Nigeria 🇳🇬*
 
 </div>
