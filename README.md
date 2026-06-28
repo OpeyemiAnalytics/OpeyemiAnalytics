@@ -67,7 +67,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 ---
 
-## 📈 GitHub Activity
+## 💜 GitHub Journey
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpeyemiAnalytics&theme=midnight-purple&hide_border=true"/>
