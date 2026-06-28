@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=5B2D8E&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BI%20%26%20Financial%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Excel%20%7C%20DAX&descAlignY=55&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5B2D8E&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BI%20%26%20Financial%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Excel%20%7C%20DAX&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
 
@@ -17,7 +17,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 - 🏦 Currently: **Access Control & Security Officer** at a leading Nigerian bank
 - 📊 Upskilling: **Bootcamp** at DigitaleyDrive (Power BI · SQL · Excel · DAX · Tableau)
 - 🎯 Target: **BI Analyst / Financial Analyst roles** in Banking and Fintech
-- 🤖 AI-assisted analyst - I use **Claude, ChatGPT, Copilot or Gemini** to work smarter
+- 🤖 AI-assisted analyst — I use **Claude, ChatGPT, Copilot and Gemini** to work smarter
 - 👗 Side hustle: Founder of **Dooocetaa's Haven** - *Celebrating Every Woman, Every Shape, Every Shade*
 - 📍 Based in **Lagos, Nigeria**
 - 📬 Reach me: **dooocetaa17@gmail.com**
@@ -54,12 +54,12 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| 🛫 **Flight Risk** | Power BI · DAX · Power Query | Dano Airlines passenger experience & delay analysis dashboard |
-| 🚗 **Impact Zone** | Power BI · DAX · Data Cleaning | NYC Motor Vehicle Collisions - 1M+ records, high-risk zone mapping |
+| 🛫 **[Flight Risk](https://github.com/OpeyemiAnalytics/Dano-Airlines-Passenger-Satisfaction)** | Power BI · DAX · Power Query | Dano Airlines passenger experience & delay analysis dashboard |
+| 🚗 **[Impact Zone](https://github.com/OpeyemiAnalytics/NYC-Motor-Vehicle-Collisions)** | Power BI · DAX · Data Cleaning | NYC Motor Vehicle Collisions - 1M+ records, high-risk zone mapping |
 | 🏦 **Bank Churn Analysis** | PostgreSQL · Excel · Power BI | End-to-end customer churn pipeline with interactive dashboard |
 | 📈 **Maven Marketing Dashboard** | Power BI · DAX | "Midnight Teal" 3-page marketing dashboard + 10-page report |
-| 🏥 **Health App Churn Analysis** | Excel · Power BI | 240K+ row health app user churn analysis & insights |
-| 🍽️ **Restaurant Ratings** | Power BI · Power Query · DAX | Cuisine trends & location-based performance insights |
+| 🏥 **Health App Churn Analysis** | Excel · Power BI | 240K+ row health app user churn & retention analysis |
+| 🍽️ **[Restaurant Ratings](https://github.com/OpeyemiAnalytics/Mexico-Restaurant-Rating-Analysis)** | Power BI · Power Query · DAX | Cuisine trends & location-based performance insights |
 
 ---
 
@@ -67,9 +67,9 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 <div align="center">
 
-![Opeyemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OpeyemiAnalytics&show_icons=true&theme=radical&title_color=C4A8E8&icon_color=C4A8E8&text_color=ffffff&bg_color=2D0A5A)
+![Opeyemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OpeyemiAnalytics&show_icons=true&theme=radical&title_color=C4A8E8&icon_color=C4A8E8&text_color=ffffff&bg_color=2D0A5A&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OpeyemiAnalytics&layout=compact&theme=radical&title_color=C4A8E8&text_color=ffffff&bg_color=2D0A5A)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OpeyemiAnalytics&layout=compact&theme=radical&title_color=C4A8E8&text_color=ffffff&bg_color=2D0A5A&hide_border=true)
 
 </div>
 
@@ -81,6 +81,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/opeyemi-taiwo-565985185/)
 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-1a1a1a?style=for-the-badge&logo=medium)](https://medium.com/@datagirlie)
+[![X](https://img.shields.io/badge/X-Follow-1a1a1a?style=for-the-badge&logo=x)](https://x.com/dooocetaa?s=21)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D4A843?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dooocetaa17@gmail.com)
 
 </div>
@@ -89,7 +90,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=5B2D8E&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5B2D8E&height=100&section=footer" width="100%"/>
 
 *Open to BI Analyst and Financial Analyst roles in Banking and Fintech · Lagos, Nigeria 🇳🇬*
 
