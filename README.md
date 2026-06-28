@@ -67,15 +67,15 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpeyemiAnalytics&theme=midnight-purple&hide_border=true"/>
+</p>
 
-![Opeyemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OpeyemiAnalytics&show_icons=true&theme=radical&title_color=C4A8E8&icon_color=C4A8E8&text_color=ffffff&bg_color=2D0A5A&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OpeyemiAnalytics&layout=compact&theme=radical&title_color=C4A8E8&text_color=ffffff&bg_color=2D0A5A&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpeyemiAnalytics&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
 
 ---
 
