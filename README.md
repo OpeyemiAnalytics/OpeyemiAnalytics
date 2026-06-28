@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5B2D8E&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BI%20%26%20Financial%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Excel%20%7C%20DAX&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6a11cb,100:2575fc&amp;height=250&amp;section=header&amp;text=Welcome%20to%20my%20GitHub!&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=BI%20%26%20Financial%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Excel%20%7C%20DAX&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
 </div>
 
