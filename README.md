@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:9B5DE5,100:C77DFF&height=280&section=header&text=Welcome%20to%20My%20Space&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data-driven%20insights.%20Smarter%20decisions.%20Real%20impact.&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:9B5DE5,100:C77DFF&height=280&section=header&text=Welcome%20to%20My%20Analytics%20Hub💜&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data-driven%20insights.%20Smarter%20decisions.%20Real%20impact.&descAlignY=58&descSize=20" width="100%" />
 
 # 👋 Hi there, I'm *Opeyemi Taiwo*
 
