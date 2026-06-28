@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:9B5DE5,100:C77DFF&height=280&section=header&text=Welcome%20to%20My%20Analytics%20Hub💜&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data-driven%20insights.%20Smarter%20decisions.%20Real%20impact.&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:9B5DE5,100:C77DFF&height=350&section=header&text=Welcome%20to%20My%20Analytics%20Hub💜&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data-driven%20insights.%20Smarter%20decisions.%20Real%20impact.&descAlignY=58&descSize=20" width="100%" />
 
 # 👋 Hi there, I'm *Opeyemi Taiwo*
 
@@ -96,6 +96,7 @@ I am a **Business Intelligence & Financial Analyst** in transition, with a solid
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5B2D8E&amp;height=100&amp;section=footer" width="100%"/>
 
+*Thanks for stopping by! Let's build something meaningful with data💜*
 *Open to BI Analyst and Financial Analyst roles in Banking and Fintech · Lagos, Nigeria 🇳🇬*
 
 </div>
